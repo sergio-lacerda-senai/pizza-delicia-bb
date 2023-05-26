@@ -2,3 +2,4 @@ Histórico de commits
 
 - Commit # 1 - Adicionando o arquivo de histórico
 - Commit # 2 - Adicionando o commit 2
+- Commit # 3 - Adicionando o commit 3
